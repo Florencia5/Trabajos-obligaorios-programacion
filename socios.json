@@ -1,0 +1,92 @@
+[
+    {
+      "nombre": "Sofia",
+      "apellido": "Martinez",
+      "fechaNacimiento": "20/01/1950",
+      "documento": "11087456",
+      "telefono": "2281309100",
+      "miembroDesde": "3/25/2022",
+      "deporte": 1
+    },
+    {
+      "nombre": "Raquel",
+      "apellido": "Garcia",
+      "fechaNacimiento": "09/02/1971",
+      "documento": "17098345",
+      "telefono": "228139121",
+      "miembroDesde": "3/25/2020",
+      "deporte": 2
+    },
+    {
+      "nombre": "Margarita",
+      "apellido": "Lopez",
+      "fechaNacimiento": "12/03/1974",
+      "documento": "20234876",
+      "telefono": "23222234",
+      "miembroDesde": "11/09/2022",
+      "deporte": 2
+    },
+    {
+      "nombre": "Violeta",
+      "apellido": "Benitez",
+      "fechaNacimiento": "19/04/1982",
+      "documento": "30257634",
+      "telefono": "1443215",
+      "miembroDesde": "29/10/2023",
+      "deporte": 4
+    },
+    {
+      "nombre": "Alejandra",
+      "apellido": "campo",
+      "fechaNacimiento": "20/05/1986",
+      "documento": "32067457",
+      "telefono": "64213278",
+      "miembroDesde": "09/03/2023",
+      "deporte": 4
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "fechaNacimiento": "23/06/1987",
+      "documento": "36023129",
+      "telefono": "45213246",
+      "miembroDesde": "08/25/2023",
+      "deporte": 5
+    },
+    {
+      "nombre": "Marta",
+      "apellido": "Lopez",
+      "fechaNacimiento": "29/07/1991",
+      "documento": "37379082",
+      "telefono": "22236240",
+      "miembroDesde": "22/25/2023",
+      "deporte": 0
+    },
+    {
+      "nombre": "Martina",
+      "apellido": "Salomon",
+      "fechaNacimiento": "01/09/1996",
+      "documento": "39076246",
+      "telefono": "098",
+      "miembroDesde": "20/25/2023",
+      "deporte": 3
+    },
+    {
+      "nombre": "Macarena",
+      "apellido": "diaz",
+      "fechaNacimiento": "30/10/2000",
+      "documento": "41570246",
+      "telefono": "309",
+      "miembroDesde": "08/25/2023",
+      "deporte": 0
+    },
+    {
+      "nombre": "Marina",
+      "apellido": "Dannunzio",
+      "fechaNacimiento": "07/11/1990",
+      "documento": "35203324",
+      "telefono": "567",
+      "miembroDesde": "05/25/2023",
+      "deporte": 1
+    }
+  ]
